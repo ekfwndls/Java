@@ -15,6 +15,7 @@ public class DrawDice extends JFrame{
 		setTitle("snow man face");
 		setVisible(true);
 		add(panel);
+		
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
